@@ -1,0 +1,29 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Cazador"
+        skin="character_Cazador.png"
+        nameimage="playername_Cazador.png"
+        hp="0"
+        black="8"
+        armor="0"
+        keys="0"
+        coins="5"
+        portrait="playerportrait_Cazador.png"
+        skinColor="-1"
+        trinket="43"
+        items="569,62"
+        pocketactive=""
+    />
+
+    <player name="Cazador"
+        skin="character_gabriel_b.png"
+        nameimage="playername_gabriel.png"
+        hp="4"
+        armor="2"
+        keys="1"
+        portrait="playerportrait_gabriel_b.png"
+        skinColor="-1"
+        bSkinParent="Cazador"
+        costumeSuffix="gabrielb"
+        costume="104"
+    />
+</players>
