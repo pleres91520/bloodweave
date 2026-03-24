@@ -1,0 +1,30 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Gale"
+        skin="character_Gale.png"
+        nameimage="playername_Gale.png"
+        hp="0"
+        armor="4"
+        black="2"
+        keys="0"
+        coins="3"
+        portrait="playerportrait_Gale.png"
+        skinColor="-1"
+        trinket="152"
+        card="6"
+        items="557"
+        pocketactive="557"
+    />
+
+    <player name="Gale"
+        skin="character_gabriel_b.png"
+        nameimage="playername_gabriel.png"
+        hp="4"
+        armor="2"
+        keys="1"
+        portrait="playerportrait_gabriel_b.png"
+        skinColor="-1"
+        bSkinParent="Gale"
+        costumeSuffix="gabrielb"
+        costume="104"
+    />
+</players>
